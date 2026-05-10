@@ -80,10 +80,9 @@ This repository contains the Jupyter Notebook for **Lab Activity 5** of IT325 Ma
 
 ---
 
-## Notebook Link
+## Github Link
 
-> *(Google Colab link to be added after upload)*
-
+> https://github.com/angelobinonggo/IT325-LabActivity5-ModelComparison.git 
 ---
 
 ## Requirements
